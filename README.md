@@ -1,9 +1,17 @@
 # README file for Presentation
 
+## What makes a good presenter?
+
+- Knowledge
+- Confidence
+- Manner
+- Attitude
+- Diligence
+- Enthusiasm
 
 ## Presentation Outline/ Structure
 
-Introduction - 
+Introduction
 
 Background
 
