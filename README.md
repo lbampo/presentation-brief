@@ -1,12 +1,19 @@
 # README file for Presentation
 
 
-Presentation Topic
+## Presentation Outline/ Structure
 
+Introduction - 
 
-# Input header 2
+Background
 
+Outline/ Agenda
 
-More information about Presentation
+Sections
 
-# Input header 3 
+Conclusion/ Summary
+
+Any questions
+
+# Date: 13th September '19
+# Duration: 5 mins (+- 1)
